@@ -1,0 +1,11 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "mucahitarduc",
+  "repo": "container-lspmm8k",
+  "name": "mucahitarduc",
+}
